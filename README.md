@@ -1,6 +1,6 @@
 # Dilesh Vallabh
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-dilesh--vallabh-blue)](https://www.linkedin.com/in/dilesh-vallabh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilesh-vallabh)](https://www.linkedin.com/in/dilesh-vallabh)
 
 🚀 Aerospace Engineer | 💻 Programmer
 
